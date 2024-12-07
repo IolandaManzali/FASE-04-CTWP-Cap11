@@ -8,7 +8,7 @@
 
 # Nome do projeto - Implementando Algoritmos de Machine Learning com Scikit-Learn
 
-![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/CAP1FASE4.png)
+![Designer.jpeg](https://github.com/IolandaManzali/FASE-04-CTWP-Cap11/blob/main/assets/cap3_fase4.png)
 
 
 
