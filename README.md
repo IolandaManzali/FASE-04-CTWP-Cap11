@@ -6,16 +6,13 @@
 
 <br>
 
-# Nome do projeto - Automação e inteligência na FarmTech Solutions
+# Nome do projeto - Implementando Algoritmos de Machine Learning com Scikit-Learn
 
 ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/CAP1FASE4.png)
 
-Na Fase 3 (atividade: Construindo uma máquina agrícola) foi desenvolvido um projeto de um sistema de irrigação automatizado e inteligente para monitoramento da umidade, PK e  pH do solo em tempo real  e com ajuste de irrigação, utilizando as tecnologias Python, Oracle e a plataforma Wokwi. Utilizamos dados ficticios para mostrar o acionamento de  uma bomba de água (representada no modelo por um relé). Esse modelo se encontra disponivel atraves do link <https://wokwi.com/projects/414296192887361537>.
-
-Para a Fase 4 foi lançado o desafio de otimizar o projeto anterior adicionando novas funcionalidades e incorporando novas tecnologias ao adicionar uma interface gráfica mais amigável com o Scikit-learn e o Streamlit, além das melhorias no banco de dados e no próprio código, que foi revisado para ser mais eficiente e mais econômico (utiliza uma memoria menor) sem comprometer sua qualidade. Esse modelo se encontra disponível através do link abaixo: <https://wokwi.com/projects/416358079505406977> 
 
 
-## Nome do grupo - Grupo 38
+## Nome do grupo - Grupo 15
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/guilherme-dos-santos-barbosa-58397b176">Guilherme dos Santos Barbosa</a>
