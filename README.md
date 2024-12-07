@@ -32,16 +32,13 @@ Modelo Wokwi versão 1.2
 
 <p align="justify">
  
-Este projeto de  Machine Learning desenvolvido para a quarta fase do Curso de  Inteligência ARtificial da FIAP propõe uma solução de aprendizado de máquina para automatizar a classificação de variedades de grãos de trigo, substituindo o processo manual atual. A primeira etapa consiste em analisar e preparar os dados para o modelo, identificando padrões e tratando possíveis inconsistências. Em seguida, diferentes algoritmos de classificação serão implementados e comparados para encontrar o modelo com melhor desempenho. Para otimizar os resultados, técnicas de ajuste de hiperparâmetros serão aplicadas. Finalmente, uma análise detalhada dos resultados permitirá entender quais características dos grãos são mais importantes para a classificação e qual algoritmo é mais adequado para essa tarefa específica. Essa solução tem o potencial de aumentar a eficiência e a precisão da classificação de grãos em cooperativas agrícolas, além de fornecer insights valiosos sobre as diferentes variedades de trigo.
-
-Em resumo, este projeto busca criar um modelo de machine learning capaz de classificar grãos de trigo de forma precisa e automatizada. A análise dos dados, a comparação de diferentes algoritmos e a otimização dos modelos são etapas cruciais para alcançar esse objetivo. Os resultados obtidos poderão auxiliar as cooperativas agrícolas a tomarem decisões mais informadas e eficientes na gestão de seus produtos.
-
+Este projeto de Machine Learning desenvolvido para a quarta fase do Curso de Inteligência ARtificial da FIAP propõe uma solução de aprendizado de máquina para automatizar a classificação de variedades dos três tipos de grãos de trigo do dataset selecionado, substituindo o processo manual atual. 
+O escopo do projeto será realizado em  três etapas:
+ * Análise e pré-processamento de dados, onde o dataset será tratado e padronizado objetivando redução de inconscistências e aumento de acurácia e precisão.
+ * Implementação dos Algoritmos de Classificação para averiguação do modelo mais bem adaptado ao dataset
+ * Otimização do resultados e ajuste de hiperparâmetros
+ * Análise dos resultados
  
-
-
-
-
-
 </p>
 
 ## 📁 Estrutura de pastas
