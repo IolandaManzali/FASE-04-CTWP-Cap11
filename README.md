@@ -32,39 +32,14 @@ Modelo Wokwi versão 1.2
 
 <p align="justify">
  
-Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de 40% e desligando-a quando a umidade ultrapassar 80%. 
-Na versao atualizada, o projeto conta com um banco de dados mais robusto do que o anterior e, alem de exibir os dados coletados em tempo real no display, apresenta interface grafica amigável para facilitar o monitoramento e compreensão dos dados analisados.
+Este projeto de  Machine Learning desenvolvido para a quarta fase do Curso de  Inteligência ARtificial da FIAP propõe uma solução de aprendizado de máquina para automatizar a classificação de variedades de grãos de trigo, substituindo o processo manual atual. A primeira etapa consiste em analisar e preparar os dados para o modelo, identificando padrões e tratando possíveis inconsistências. Em seguida, diferentes algoritmos de classificação serão implementados e comparados para encontrar o modelo com melhor desempenho. Para otimizar os resultados, técnicas de ajuste de hiperparâmetros serão aplicadas. Finalmente, uma análise detalhada dos resultados permitirá entender quais características dos grãos são mais importantes para a classificação e qual algoritmo é mais adequado para essa tarefa específica. Essa solução tem o potencial de aumentar a eficiência e a precisão da classificação de grãos em cooperativas agrícolas, além de fornecer insights valiosos sobre as diferentes variedades de trigo.
 
+Em resumo, este projeto busca criar um modelo de machine learning capaz de classificar grãos de trigo de forma precisa e automatizada. A análise dos dados, a comparação de diferentes algoritmos e a otimização dos modelos são etapas cruciais para alcançar esse objetivo. Os resultados obtidos poderão auxiliar as cooperativas agrícolas a tomarem decisões mais informadas e eficientes na gestão de seus produtos.
 
- Funcionalidades:
  
- * Monitoramento da umidade do solo: Utiliza um sensor DHT22 para medir a umidade do solo.
- * Simulação de níveis de nutrientes: Utiliza um LDR para simular a leitura de níveis de nutrientes no solo pH
- * Controle automático da irrigação: Liga e desliga a bomba d'água automaticamente com base na umidade do solo.
- * Interface de usuário: Exibe informações relevantes em um display LCD 20x4, incluindo umidade, níveis de nutrientes simulados, status da irrigação e temperatura.
- * Comunicação serial: Envia dados do sistema para o monitor serial para depuração e monitoramento.
- * Serial plotter : Exibe as informaçoes do sensor LRD (pH) do solo
-
-Atualizações no codigo c++:
-
- * inclusao do codigo para utilização do LCD
-
-   ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/iniciaLCD.png)
-   
- * troca de float por byte para leitura de umidade, com o objetivo de economizar memoria
-
-   ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/usodebyte.png)
-
- * codificação para parametrizar a visualização dos dados na tela LCD 
-
-![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/mostrandoLCD.png)
 
 
-Integração do Serial Plotter:
 
-A leitura grafica do serial plotter mostra a relação entre a amplitude da curva e a intensidade luminosa: quanto maior a intensidade da luz menor é a amplitude da curva.
-
-![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/sp4.png)
 
 
 </p>
