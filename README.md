@@ -66,13 +66,23 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
   * Faça o upload do dataset "Seeds" atraves do link <https://archive.ics.uci.edu/dataset/236/seeds>
 
-Se utilizar o Jupyter Notebbok pelo site:
+Se for utilizar o Jupyter Notebbok pelo site:
 
 Abra um novo arquivo (File), crie e nomeie seu notebook
 
-![nj](
+![nj](https://github.com/IolandaManzali/FASE-04-CTWP-Cap11/blob/main/assets/notebookj.png)
 
+Se for utilizar o Jupyter Notebbok pelo VSCode:
 
+ * Crie uma pasta na sua area de trabalho (ou no local de sua preferência)
+
+ * Abra o VSCode
+
+ * Cliqei em "New Folder" e abra essa pasta.
+
+ * Crie um novo arquico dentro dessa pasta.
+
+    
 
 
 
