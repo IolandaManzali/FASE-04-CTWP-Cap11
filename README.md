@@ -32,7 +32,8 @@ Modelo Wokwi versão 1.2
 
 <p align="justify">
  
-Este projeto de Machine Learning desenvolvido para a quarta fase do Curso de Inteligência ARtificial da FIAP propõe uma solução de aprendizado de máquina para automatizar a classificação de variedades dos três tipos de grãos de trigo do dataset selecionado, substituindo o processo manual atual. 
+Este projeto de Machine Learning desenvolvido para a quarta fase do Curso de Inteligência Artificial da FIAP propõe uma solução de aprendizado de máquina para automatizar a classificação de variedades dos três tipos de grãos de trigo do dataset selecionado, substituindo o processo manual atual. 
+
 O escopo do projeto será realizado em  três etapas:
  * Análise e pré-processamento de dados, onde o dataset será tratado e padronizado objetivando redução de inconscistências e aumento de acurácia e precisão.
  * Implementação dos Algoritmos de Classificação para averiguação do modelo mais bem adaptado ao dataset
@@ -45,7 +46,7 @@ O escopo do projeto será realizado em  três etapas:
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- - <b>assets</b>: imagens utilizadas no projeto
+-  <b>assets</b>: imagens utilizadas no projeto
 
 - <b>config</b>: arquivos de parâmetros e ajustes do projeto.
 
@@ -58,7 +59,22 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>README.md</b>: FIAP FASE4. 
 
 ## 🔧 Como executar o código
- falta 
+
+  * Acesse o Jupyter Notebook pelo site <https://jupyter.org/> ou pelo VSCode
+  
+  * Crie um pasta para armazenar os arquivos pertinentes ao projeto
+
+  * Faça o upload do dataset "Seeds" atraves do link <https://archive.ics.uci.edu/dataset/236/seeds>
+
+Se utilizar o Jupyter Notebbok pelo site:
+
+Abra um novo arquivo (File), crie e nomeie seu notebook
+
+![nj](
+
+
+
+
 
 
 
