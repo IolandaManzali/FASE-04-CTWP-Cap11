@@ -82,6 +82,7 @@ Se for utilizar o Jupyter Notebbok pelo VSCode:
 
  * Crie um novo arquico dentro dessa pasta.
 
+![vsc](https://github.com/IolandaManzali/FASE-04-CTWP-Cap11/blob/main/assets/vscode.png)
     
 
 
