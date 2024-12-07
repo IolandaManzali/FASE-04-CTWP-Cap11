@@ -60,6 +60,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
+### ACESSANDO O AMBIENTE
+
   * Acesse o Jupyter Notebook pelo site <https://jupyter.org/> ou pelo VSCode
   
   * Crie um pasta para armazenar os arquivos pertinentes ao projeto
@@ -82,14 +84,54 @@ Se for utilizar o Jupyter Notebbok pelo VSCode:
 
  * Crie um novo arquico dentro dessa pasta.
 
+ * Faça o upload do dataset "Seeds" atraves do link <https://archive.ics.uci.edu/dataset/236/seeds>
+
 ![vsc](https://github.com/IolandaManzali/FASE-04-CTWP-Cap11/blob/main/assets/vscode.png)
     
+### Algoritmos de Classificaçao
 
+#### Importando as bibliotecas Python (Pandas, Seaborn, Numpy, Matplotlib e Plot)
+obs: Casos essas bibliotecas não estejam instaladas na sua IDE, pode-se utilzar o comando pip install nome_biblioteca  n oseu terminal para que seja instalada
 
+#### Importando os parâmetros da Biblioteca Sbikit-Learn (LabelEncoder, OneHotEncoder, MinMaxScaler, train_test_split)
 
+#### Importando os Algoritmos de Classificação da Biblioteca SCIKIT-LEARN ( KNeighborsClassifier, LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier, accuracy_score, classification_report, confusion_matrix  make_classification, mean_squared_error, mean_absolute_error, r2_score)
 
+#### Carregando o dataset e exibindo uma amostra do seu dataset
 
+### Começando a análise exploratória
 
+#### Exibindo resumos estatisticos e informativo do conjunto do dataset
+
+#### Realizando o tratamento inicial dos dados (verificar se há dados ausentes ou duplicados e analisando presença outliers)
+
+#### Explorando as relaçoes entre as variáveis (graficos pairplot)
+
+#### Explorando a distribuição do labels
+
+#### Explorando a correlaçaõ entre as features numéricas
+
+#### Pré-processamento dos dados, com substituição dos valores dos outliers pela mediana
+
+### Imprementação e Comparação do Algoritmos de Classificação
+
+#### Separando Labels e Features
+
+#### Atribuindo o Label Encoder para a variável alvo
+
+#### Dividindo os dados em cxonjuntos de treino e teste 
+
+#### Normalizando as features numericas para MinMaxScaler
+
+#### Treinando os modelos
+
+#### Comparando o desempenho dos modelos em relação aos algoritmos de classficação 
+
+#### Otimizando os hiperparametros
+
+#### Retreinando os modelos
+
+### Analisando os resultados
 
 
 ## 🗃 Histórico de lançamentos
